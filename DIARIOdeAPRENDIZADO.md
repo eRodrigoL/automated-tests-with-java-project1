@@ -4,7 +4,7 @@
 
 ## Atalhos úteis
 
-- Ctrl + Shift + F = formata/identa o código
+- Ctrl + Shift + F = formata/identa o código (apenas o que estiver selecionado)
 - Ctrl + Alt + T = abre o terminal
 
 ---
